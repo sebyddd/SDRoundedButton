@@ -28,5 +28,5 @@ In order to add SDRoundedButton into your project, simply drag to SDRoundedButto
 ## Updates
 
 ````
-- Initial commit (Cocoapods coming soon)
+- Initial commit
 ````
