@@ -1,4 +1,4 @@
-SDRoundedButton :star:
+SDRoundedButton :star: (discontinued & removed)
 ===============
 
 Simple Objective-C implementation of UIButton class with extra features.
